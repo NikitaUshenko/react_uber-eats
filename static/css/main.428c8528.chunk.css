@@ -1,0 +1,2 @@
+.header{height:80px}@media (max-width:1023px){.header-logo{width:105px}}.header-logo img{width:100%}.header-wrapper{margin:0 auto;max-width:956px;height:100%;display:flex;align-items:center}@media (max-width:1023px){.header-wrapper{max-width:768px;box-sizing:border-box;padding:0 8px}}@media (max-width:639px){.header-wrapper{max-width:320px}}.header__location-button,.header__location-form{margin-left:64px}
+/*# sourceMappingURL=main.428c8528.chunk.css.map */
